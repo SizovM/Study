@@ -1,3 +1,3 @@
-# This is AQA learning course
+# Another information
 
-#Some additional info
+#Another info
