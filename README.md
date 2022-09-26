@@ -1,3 +1,3 @@
-# This is AQA learning project
+# This is AQA learning course
 
 #Some additional info
